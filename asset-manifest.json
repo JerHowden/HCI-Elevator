@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HCI-Elevator/static/css/main.2cce8147.chunk.css",
-    "main.js": "/HCI-Elevator/static/js/main.f2812de1.chunk.js",
-    "main.js.map": "/HCI-Elevator/static/js/main.f2812de1.chunk.js.map",
-    "runtime~main.js": "/HCI-Elevator/static/js/runtime~main.03502f06.js",
-    "runtime~main.js.map": "/HCI-Elevator/static/js/runtime~main.03502f06.js.map",
-    "static/js/2.e041cc10.chunk.js": "/HCI-Elevator/static/js/2.e041cc10.chunk.js",
-    "static/js/2.e041cc10.chunk.js.map": "/HCI-Elevator/static/js/2.e041cc10.chunk.js.map",
-    "index.html": "/HCI-Elevator/index.html",
-    "precache-manifest.27578c2f58630bf606ae7642cf39f388.js": "/HCI-Elevator/precache-manifest.27578c2f58630bf606ae7642cf39f388.js",
-    "service-worker.js": "/HCI-Elevator/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/HCI-Elevator/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/HCI-Elevator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/HCI-Elevator/demo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/HCI-Elevator/demo/static/js/main.1e8f1f8d.chunk.js",
+    "main.js.map": "/HCI-Elevator/demo/static/js/main.1e8f1f8d.chunk.js.map",
+    "runtime~main.js": "/HCI-Elevator/demo/static/js/runtime~main.03e6f53d.js",
+    "runtime~main.js.map": "/HCI-Elevator/demo/static/js/runtime~main.03e6f53d.js.map",
+    "static/js/2.e041cc10.chunk.js": "/HCI-Elevator/demo/static/js/2.e041cc10.chunk.js",
+    "static/js/2.e041cc10.chunk.js.map": "/HCI-Elevator/demo/static/js/2.e041cc10.chunk.js.map",
+    "index.html": "/HCI-Elevator/demo/index.html",
+    "precache-manifest.773a3883fcd3a3f138be594bbcb10317.js": "/HCI-Elevator/demo/precache-manifest.773a3883fcd3a3f138be594bbcb10317.js",
+    "service-worker.js": "/HCI-Elevator/demo/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/HCI-Elevator/demo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/HCI-Elevator/demo/static/media/logo.5d5d9eef.svg"
   }
 }
